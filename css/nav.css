@@ -1,0 +1,12 @@
+.Titulo-Pag{
+    font-size: 3.2em;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    color: #FAE94B;
+    font-family: 'sigmar','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img-pokedex{
+    margin-top: 1rem;
+    width: 6rem;
+    margin-bottom: 1rem;
+}

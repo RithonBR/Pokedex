@@ -1,0 +1,11 @@
+.container-footer{
+    display: grid;
+    height: 5rem;
+    background-color: #754CFA;
+    color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 0px 0px 0px 5px rgba(0,0,0,0.2); 
+    justify-content: center;
+    align-content: center;
+}

@@ -1,0 +1,21 @@
+.img-pokemon{
+    width: 8rem;
+    justify-content: center;
+    margin-left: 0.5rem;
+}
+.item{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.item:hover{
+    transform: scale(1.1);
+}
+.textos-pokemon{
+    display: grid;
+    color: aliceblue;
+    text-align: center;
+    gap: 0.5rem;
+}
+.nome-pokemon{
+    margin-bottom: 0.5rem;
+}

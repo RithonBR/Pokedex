@@ -1,0 +1,20 @@
+.regiao{
+    font-size: 2rem;
+    font-weight: bold;
+    color: antiquewhite;
+    padding: 1rem;
+}
+
+.Container-regiao-mestre{
+    display: grid;
+    gap: 0.5rem;
+}
+
+.container-regiao{
+    display: flex;
+    background-color: blueviolet;
+    justify-content: space-between;
+}
+.img-div{
+    margin-top: 0.5rem;
+}
